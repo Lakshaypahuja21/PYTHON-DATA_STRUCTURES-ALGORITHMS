@@ -1,2 +1,2 @@
 # PYTHON-DATA_STRUCTURES-ALGORITHMS
-## Notes for python and DSA
+## CN Notes for python and DSA
