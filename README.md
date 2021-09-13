@@ -1,2 +1,2 @@
-# PYTHON and its libraries 
+# Coding ninjas data science 
 Self-explanatory Notes for data science
